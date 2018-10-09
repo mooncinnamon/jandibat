@@ -1,0 +1,3 @@
+[submodule "jandibat-spring"]
+	path = jandibat-spring
+	url = https://github.com/mooncinnamon/jandibat-spring.git
